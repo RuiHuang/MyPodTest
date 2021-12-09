@@ -1,1 +1,283 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T07:19:11.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="15.8.6" etag="R-RJQYpGQsXvSsKjC1BE" type="github"><diagram id="Ij3SPuvVrrROI4GXfKk7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-09T08:28:04.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="p5DdZv30JnCtIwPmkPi4" version="15.8.6" type="github">
+  <diagram id="Ij3SPuvVrrROI4GXfKk7" name="Page-1">
+    <mxGraphModel dx="1877" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;WBCarHybridSDK&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="70" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="130" width="1177.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-7" value="&lt;font style=&quot;font-size: 19px&quot;&gt;基础功能方法集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-8" value="&lt;font style=&quot;font-size: 19px&quot;&gt;对外暴露行为集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="220" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=20;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="420" y="175" width="290" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-11" value="&lt;font style=&quot;font-size: 19px&quot;&gt;自定义Hybrid容器装饰&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="220" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-12" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Hybrid容器配置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="220" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-19" value="创建Hybrid容器" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-22" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-23" value="webview执行js语句" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-24" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zb7vuvem_jAwaq0RXjuC-25" value="设置hybrid容器导航栏是否隐藏" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-1" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-2" value="设置hybrid容器状态栏样式" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-3" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="510" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-4" value="设置hybrid容器滚动是否可回弹" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-5" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="560" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-6" value="设置hybrid容器导航栏是否隐藏" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="570" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-7" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="610" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-8" value="根据给定key给hybrid容器设置value" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-9" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-10" value="获取hybrid容器给定key对应的value" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-11" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="710" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-12" value="设置hybrid容器导航栏是否隐藏" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="760" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-14" value="关闭当前hybrid容器" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="770" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="810" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-16" value="逐级关闭hybrid容器内页面" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="820" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-17" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="860" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-18" value="设置hybrid容器导航栏是否隐藏" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="870" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-19" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="910" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-20" value="设置导航栏标题" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-21" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="960" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-22" value="设置导航栏右侧按钮" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="970" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-23" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1010" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-24" value="设置导航栏左侧按钮" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1020" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-25" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1060" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-26" value="给hybrid容器内webview添加KVO" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1070" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-27" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1110" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-28" value="移除hybrid容器内webview的KVO" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-29" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1160" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-30" value="获取webview当前加载进度" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1170" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-31" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1210" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-32" value="获取webview当前标题" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1220" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-33" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1260" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-34" value="清除hybrid缓存" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1270" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-38" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-39" value="自定义WKWebViewConfiguration" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-40" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="360" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-41" value="自定义处理URLRequest" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="370" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-42" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-43" value="响应JS事件/JS与WKWebView交互" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-44" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="460" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-45" value="自定义处理请求URL" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="470" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-46" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="510" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-47" value="用户自定义userAgent" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-48" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="560" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-49" value="获取前端H5页面写的标题" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="570" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-50" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="610" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-51" value="即将关闭当前hybrid容器" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="620" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-52" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="660" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-53" value="获取hybrid容器给定key对应的value" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="670" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-54" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="710" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-55" value="hybrid容器使用系统返回按钮的点击事件" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="720" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-56" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="350" y="760" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-57" value="当前webview加载进度" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="370" y="770" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-78" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-79" value="添加自定义视图到HybridVCView" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-80" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="640" y="360" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-81" value="添加自定义视图到UIWindow" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="370" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-82" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="640" y="410" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-83" value="添加自定义视图到HybridVC导航栏titleview" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="420" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-84" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="640" y="460" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-85" value="自定义hybrid容器导航栏LeftBarButtonItems" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="470" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-86" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="640" y="510" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-87" value="自定义hybrid容器导航栏RightBarButtonItems" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="660" y="520" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-88" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-89" value="设置hybrid容器导航栏是否隐藏" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="660" y="570" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-118" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="930" y="280" width="190" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-119" value="全局通用配置&#xa;&#xa;1. userAgent&#xa;2. 注入的js对象&#xa;3. 默认标题&#xa;4.标题展示顺序优先级&#xa;5. 是否回弹&#xa;6. 是否隐藏导航栏&#xa;7. 状态栏样式&#xa;8. 是否打印日志" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=10;spacingRight=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="950" y="320" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-120" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="930" y="520" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-121" value="单个Hybrid容器通用配置&#xa;&#xa;1. 跳转携带的标题&#xa;2. h5页面内部的标题&#xa;3. 初始化需要的额外query参数&#xa;4. 是否销毁上一级界面&#xa;5. 调用方自定义的扩展参数" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacingLeft=10;spacingRight=10;align=left;" vertex="1" parent="1">
+          <mxGeometry x="950" y="530" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-162" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=20;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="710" y="175" width="290" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-163" value="&lt;font style=&quot;font-size: 19px&quot;&gt;其他辅助功能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="220" width="199" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-164" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="280" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-165" value="操作日志" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="320" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-166" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="360" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-167" value="SDK版本信息" style="rounded=0;whiteSpace=wrap;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="370" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-168" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;pointerEvents=1;fontSize=22;strokeWidth=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="410" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="18_wUHmWC6TOnFnVTH_t-169" value="UI库&#xa;&#xa;1. WBCarHybridProgressView" style="rounded=0;pointerEvents=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;spacing=0;spacingTop=0;verticalAlign=middle;whiteSpace=wrap;align=left;spacingLeft=10;spacingRight=10;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="420" width="230" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
